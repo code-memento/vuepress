@@ -1,7 +1,7 @@
 module.exports = {
   title: 'My Book',
   description: 'Tempor adipisicing cillum in reprehenderit occaecat fugiat incididunt et.',
-  base: '/docs',
+  base: '/docs/',
   themeConfig: {
     nav: [
     ],
