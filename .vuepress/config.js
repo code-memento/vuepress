@@ -1,5 +1,5 @@
 module.exports = {
-  title: '{Code} Memento',
+  title: '<Code> Memento',
   description: '...tips and recipes for the busy developer !',
   base: '/docs/',
   themeConfig: {
@@ -14,11 +14,7 @@ module.exports = {
         link: '/frontend/'
       },
       {
-        text: 'Performance',
-        link: '/performance/'
-      },
-      {
-        text: 'Best practices',
+        text: 'Tips',
         link: '/default-theme-config/'
       },
       {
