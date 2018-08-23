@@ -1,15 +1,37 @@
 module.exports = {
-  title: 'My Book',
-  description: 'Tempor adipisicing cillum in reprehenderit occaecat fugiat incididunt et.',
+  title: '{Code} Memento',
+  description: '...tips and recipes for the busy developer !',
   base: '/docs/',
   themeConfig: {
+    lastUpdated: 'Last Updated',
     nav: [
+      {
+        text: 'Java',
+        link: '/java/',
+      },
+      {
+        text: 'Frontend',
+        link: '/frontend/'
+      },
+      {
+        text: 'Performance',
+        link: '/performance/'
+      },
+      {
+        text: 'Best practices',
+        link: '/default-theme-config/'
+      },
+      {
+        text: 'About me',
+        link: '/about-me/'
+      }
     ],
-    sidebar: [
-      '/',
-      'chapter-1/',
-      'chapter-2/'
-    ]
+    sidebar: 'auto'
+    // sidebar: [
+    //   '/',
+    //   'java/',
+    //   'chapter-2/'
+    // ]
   },
 
   head: [
