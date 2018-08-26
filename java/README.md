@@ -1,8 +1,24 @@
 # Java
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+In this section you'll find articles about the Java ecosystem, I'll try to cover as many topics as possible since there is a lot to take about.
 
-## Articles
+### The Java Language
 
-* [Eclipse NTLM Proxy](eclipse-ntlm.html),
 * [Java Enums](enums.html)
+* [Java type to choose](java-types.html)
+
+### Eclipse IDE
+
+* [Eclipse NTLM Proxy](eclipse-ntlm.html)
+
+### Maven
+
+*Coming soon !*
+
+### Coding best practices
+
+*Coming soon !*
+
+### Spring
+
+*Coming soon !*

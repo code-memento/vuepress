@@ -15,11 +15,11 @@ module.exports = {
       },
       {
         text: 'Tips',
-        link: '/default-theme-config/'
+        link: '/tips/'
       },
       {
         text: 'About me',
-        link: '/about-me/'
+        link: '/about-me.html'
       }
     ],
     sidebar: 'auto'

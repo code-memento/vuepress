@@ -11,7 +11,7 @@ Go to `Preferences » General » Network Connections`, then in `Active Provider`
 
 Then enter your proxy address, your port and your username and password.
 
-![Eclipse proxy](./proxy.png)
+![Eclipse proxy](../img/proxy.png)
 
 ## The hardest way
 
