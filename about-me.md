@@ -15,5 +15,5 @@ Throughout my experience I made a lot of Apps and worked with a lot of technolog
 
 In **Code Memento**, you'll find many articles that will help you for sure.
 
-If you need anything, you can contact me via my [email](mailto:drissi.zakaria@gmail.com).
+If you need anything, you can contact me via my [email](mailto:drissi.zakaria@gmail.com?subject=About%20Code%20Memento&body=Hello%20Zakaria).
 
