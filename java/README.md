@@ -1,3 +1,7 @@
+---
+sidebar: false
+---
+
 # Java
 
 In this section you'll find articles about the Java ecosystem, I'll try to cover as many topics as possible since there is a lot to take about.
