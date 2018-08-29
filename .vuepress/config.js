@@ -2,6 +2,7 @@ module.exports = {
   title: '<Code> Memento',
   description: '...tips and recipes for the busy developer !',
   base: '/docs/',
+  ga: 'UA-124823074-1',
   themeConfig: {
     lastUpdated: 'Last Updated',
     nav: [
