@@ -15,6 +15,10 @@ In this section you'll find articles about the Java ecosystem, I'll try to cover
 
 * [Eclipse NTLM Proxy](eclipse-ntlm.html)
 
+### Apache Tomcat
+
+* [Tomcat tricks](tomcat-tricks.html)
+
 ### Maven
 
 *Coming soon !*
