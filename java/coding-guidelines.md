@@ -8,6 +8,8 @@ Luckily, there are static analysis tools like Sonar that provides real-time feed
 
 Code reviews and static analysis tools have something in common : **you have to push the code first**. What if the developer can review his own code before pushing it, this way many issues can be avoided upfront.
 
+![](../img/2485512423_1.jpg)
+
 ## The Solution
 
 What if the developer has a checklist with the common best practices and conventions that should be respected ?
@@ -21,3 +23,4 @@ Before pushing the code, the developer will check his code against a set of know
 The good news is that you don't have to write your own Java Coding Guidelines, I already compiled a set of common issues and best practices into a PDF document that the developer can print and use.
 
 You can download it [here](../files/CodeMementoJavaGuidelines.pdf).
+
