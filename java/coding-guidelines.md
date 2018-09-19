@@ -8,7 +8,6 @@ Luckily, there are static analysis tools like Sonar that provides real-time feed
 
 Code reviews and static analysis tools have something in common : **you have to push the code first**. What if the developer can review his own code before pushing it, this way many issues can be avoided upfront.
 
-![](../img/2485512423_1.jpg)
 
 ## The Solution
 
