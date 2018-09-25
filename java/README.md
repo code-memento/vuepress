@@ -10,7 +10,7 @@ In this section you'll find articles about the Java ecosystem, I'll try to cover
 
 * [Java Enums](enums.html)
 * [Java type to choose](java-types.html)
-* [Java coding guidelines](coding-guidelines.html)
+
 
 ### Eclipse IDE
 
@@ -26,7 +26,8 @@ In this section you'll find articles about the Java ecosystem, I'll try to cover
 
 ### Coding best practices
 
-*Coming soon !*
+* [Java coding guidelines](coding-guidelines.html)
+* [Making a code review](java-code-reviews.md)
 
 ### Spring
 
