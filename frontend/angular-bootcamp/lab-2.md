@@ -157,7 +157,7 @@ export class HighlightDirective {
 
 Et voilà :
 
-![](./img/lab-1-1.png)
+![](./img/Lab-1-1.png)
 
 ###### Exercice
 

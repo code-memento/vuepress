@@ -267,7 +267,7 @@ Après l'intégration des composants Header et  Product dans le composant `AppCo
 
 A cette étape, votre application doit ressembler à ça :
 
-![](img/Lab-1-1.png)
+![](./img/Lab-1-1.png)
 
 ##### Création du module Rating
 
