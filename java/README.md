@@ -31,4 +31,4 @@ In this section you'll find articles about the Java ecosystem, I'll try to cover
 
 ### Spring
 
-*Coming soon !*
+* [Spring Boot Common properties](spring-boot-properties.md)
