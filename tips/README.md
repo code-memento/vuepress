@@ -11,6 +11,7 @@ If you spent a lot of time making Apps and Software, you'll notice that it's not
 * [The 2-Minutes Rule](two-minutes-rule.html)
 * [Refresh browser when files change](refresh-browser-files-change.md)
 * [JSON to Java](json-to-java.md)
+* [Icons Web Sites](icons.md)
 
 ### Developer Skills
 
