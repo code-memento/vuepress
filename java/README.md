@@ -32,3 +32,5 @@ In this section you'll find articles about the Java ecosystem, I'll try to cover
 ### Spring
 
 * [Spring Boot Common properties](spring-boot-properties.md)
+* [Inject all implementations using Spring](spring-inject-implementations.md)
+
