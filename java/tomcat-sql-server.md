@@ -65,5 +65,5 @@ Modify your connection string as follows by adding `integratedSecurity=true` in 
 
 
 ::: danger WARNING
-This only works in Windows. For other systems
+This only works in Windows. For other systems, use the usual authentication mode.
 :::
