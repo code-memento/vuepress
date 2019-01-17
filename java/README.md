@@ -19,6 +19,7 @@ In this section you'll find articles about the Java ecosystem, I'll try to cover
 ### Apache Tomcat
 
 * [Tomcat tricks](tomcat-tricks.html)
+* [MS SQL Server Integrated Authentication with Tomcat](tomcat-sql-server.md)
 
 ### Maven
 
