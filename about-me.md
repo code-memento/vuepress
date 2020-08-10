@@ -12,6 +12,7 @@ Throughout my experience I made a lot of Apps and worked with a lot of technolog
 
 * **Backend technologies** : Java, Spring, JSF, JPA, EJB, JAX-RS, Struts, etc.
 * **Frontend technologies** : HTML, CSS, JavaScript, jQuery, Bootstrap, Angular, etc.
+* **Cloud technologies** : AWS, S3, Cloudfront, EC2, AWS Lambda, etc.
 
 In **Code Memento**, you'll find many articles that will help you for sure.
 
