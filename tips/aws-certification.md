@@ -89,3 +89,4 @@ This will help you revise as it's well organized and easy to access.
 
 ## A last word
 
+Remember, focus on two things **Preparation** (Learn - Practice - Test - Revise) and **self-discipline**.
