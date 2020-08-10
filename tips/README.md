@@ -16,3 +16,7 @@ If you spent a lot of time making Apps and Software, you'll notice that it's not
 ### Developer Skills
 
 * [A detective developer](detective-developer.html)
+
+### Certifications
+
+* [Passing the AWS Certified Solutions Architect – Associate](aws-certification.html)
