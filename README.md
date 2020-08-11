@@ -9,6 +9,6 @@ features:
 - title: Code Snippets
   details: We all have that huge text file with a lot of code snippets, Code Memento will replace it. 
 - title: Tips & tricks
-  details: We all like shortcuts, you'll find many tricks to save time.
+  details: Who does not like shortcuts, you'll find many tips to save time.
 footer: Copyright © 2017-present Zakaria DRISSI
 ---
