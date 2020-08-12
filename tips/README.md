@@ -20,3 +20,4 @@ If you spent a lot of time making Apps and Software, you'll notice that it's not
 ### Certifications
 
 * [Passing the AWS Certified Solutions Architect – Associate](aws-certification.html)
+* [How I got 926/1000 on the AWS Solutions Architect Associate Exam](aws-certification-score.html)
