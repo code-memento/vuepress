@@ -4,7 +4,7 @@ sidebar: false
 
 ![Avatar](./img/avatar.png)
 
-Hi, I’m Zakaria. I’m a Java Architect, Software developer and technology enthusiast. On this blog I share my ideas and knowledge about the things I encounter in the wild. I’m interested in the tech community, helping people, driving forward new technologies and gaining a deeper understanding of the how everything works. 
+Hi, I’m Zakaria. I’m a Software Architect and technology enthusiast. On this blog I share my ideas and knowledge about the things I encounter in the wild. I’m interested in the tech community, helping people, driving forward new technologies and gaining a deeper understanding of the how everything works. 
 
 The idea of creating **Code Memento** came from a simple problem, it's that I wanted to gather all the code snippets that I use a lot, solutions of issues that I encounter and tricks that I like and that I might forgot. Another motivation was that I explained the same topics every now and then. The solution that I came by is to create a blog with simple and straightforward articles with focus on code.
 
