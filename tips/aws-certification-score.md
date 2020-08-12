@@ -4,7 +4,7 @@ In this video I share my experience on how I got certified, and how I got a good
 
 This video was requested by Whizlabs, I show how I used their platform to prepare for the exam.
 
- I hope that it helps you  :happy: !
+ I hope that it helps you  :smile: !
 
 <div class="video-container">
 <iframe src="https://www.youtube.com/embed/sEjcHeBkFDU?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
